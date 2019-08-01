@@ -1,1 +1,3 @@
-# Project3
+# Toolocity
+
+This app will be a marketplace for sharing power tools. The mission is to allow commercial contractors to rent tools from others and have them delivered as soon as possible. This app will provide a clear listing of available power tools per category and per location. The app will also show tool listings based off of certain commercial users. Essentially you will be able to look at everyone’s “toolbox.” This app to work with hardware stores to deliver equipment to commercial contractors if their equipment fails. This will first be offered to commercial account holders, then possibly expanded. They can rent available equipment from the closest hardware store and have it delivered by a 3rd party provider such as Uber Eats.
