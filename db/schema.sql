@@ -18,3 +18,5 @@ CREATE TABLE tools (
 SELECT * FROM tools;
 
 
+-- use uniquie id index for thinks we would like to hide
+-- UNIQUE INDEX 'id_UNIQUE' ('id' ASC) VISIBLE 
