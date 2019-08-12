@@ -1,13 +1,12 @@
 var mysql = require("mysql");
 var inquirer = require("inquirer");
-//require("console.table");
 require("cli-table3");
 
 
 var connection = mysql.createConnection({
   host: "localhost",
 
-  // Your port; if not 3306
+
   port: 3306,
 
 
@@ -29,6 +28,5 @@ function showTools() {
     if (err) throw err;
     console.table(res);
 
-    promptUserForItem(res);
   });
 }
