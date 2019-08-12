@@ -24,11 +24,7 @@ var cars = {
         cb(res);
       });
     },
-  //   delete: function(id, cb) {
-  //     orm.delete(id, function(res) {
-  //       cb(res);
-  //     });
-  //   }
+ 
   };
 
   module.exports = cars;

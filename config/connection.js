@@ -9,11 +9,11 @@ if(process.env.JAWSDB_URL){
     port: 3306,
     user: "root",
     password: "password",
-    database: "exotic_Cars_DB"
+    database: "tools_db"
   });
 }
 
-// Make connection.
+// Make the connection
 connection.connect(function(err) {
   if (err) {
     console.error("error connecting: " + err.stack);
