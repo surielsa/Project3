@@ -8,3 +8,18 @@ This app will be a marketplace for renting power tools. The mission is to allow 
 Perfect for commercial contractors to get tools when their tools fail on the job or they need a tool they do not have and do not wish to purchase right away. Toolocity is a platform that enables you to securely book the tools you need at a low rate. Once you are done, just schedule the pick up so it can be returned to the store. You will only be charged the deposit until you return the tool.
 
 ### The Page
+
+![main](toolocity_mainpage.png)
+
+![login](toolocity_loginpage.png)
+
+![product catalog](toolocity_productcatalogpage.png)
+
+![registration page](toolocity_registrationpage.png)
+
+![listings](toolocity_listingspage.png)
+
+![rental](toolocity_rentalspage.png)
+
+
+
