@@ -13,7 +13,7 @@ Perfect for commercial contractors to get tools when their tools fail on the job
 
 ![login](toolocity_images/toolocity_loginpage.png)
 
-![product catalog](ttoolocity_images/toolocity_productcatalogpage.png)
+![product catalog](toolocity_images/toolocity_productcatalogpage.png)
 
 ![registration page](toolocity_images/toolocity_registrationpage.png)
 
