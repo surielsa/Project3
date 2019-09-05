@@ -18,7 +18,7 @@ class Home extends Component {
                     <Grid container spacing={10}>
                         <Grid item container xs={12} className="hero-text">
                             <Grid item xs={10}>
-                                <span>The Best Marketplace</span>
+                                <span>The Best Rental Marketplace</span>
                             </Grid>
                             <Grid item xs={10}>
                                 for <span> power tools </span>
