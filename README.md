@@ -9,17 +9,17 @@ Perfect for commercial contractors to get tools when their tools fail on the job
 
 ### The Page
 
-![main](toolocity_mainpage.png)
+![main](toolocity_images/toolocity_mainpage.png)
 
-![login](toolocity_loginpage.png)
+![login](toolocity_images/toolocity_loginpage.png)
 
-![product catalog](toolocity_productcatalogpage.png)
+![product catalog](ttoolocity_images/toolocity_productcatalogpage.png)
 
-![registration page](toolocity_registrationpage.png)
+![registration page](toolocity_images/toolocity_registrationpage.png)
 
-![listings](toolocity_listingspage.png)
+![listings](toolocity_images/toolocity_listingspage.png)
 
-![rental](toolocity_rentalspage.png)
+![rental](toolocity_images/toolocity_rentalspage.png)
 
 
 
